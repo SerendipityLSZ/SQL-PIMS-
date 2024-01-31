@@ -1,0 +1,2 @@
+# SQL-PIMS-
+CSU SQL SERVER 2022 Exercise
